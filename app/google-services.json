@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1076448135386",
+    "firebase_url": "https://profolioproject-65881-default-rtdb.firebaseio.com",
+    "project_id": "profolioproject-65881",
+    "storage_bucket": "profolioproject-65881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076448135386:android:3643644b347c65d1177de3",
+        "android_client_info": {
+          "package_name": "com.example.profolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3FBmoN_jG5m_UhzRDGAyAYLP-a1dwXNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
